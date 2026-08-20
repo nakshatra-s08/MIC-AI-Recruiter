@@ -34,8 +34,7 @@ while True:
         doc.page_content for doc in retrieved_docs
     )
 
-    result = chain.invoke
-    ({
+    result = chain.invoke({
     "context": context,
     "resume": resume,
     "skills": skills.model_dump_json(),
