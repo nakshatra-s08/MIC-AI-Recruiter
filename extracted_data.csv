@@ -1,0 +1,43 @@
+Input sentence,Skill,Technology,Language
+I worked in the AI/ML department and developed CNN models using Python.,AI/ML,CNN,Python
+I have experience in machine learning and used TensorFlow to build predictive models in Python,Machine Learning,TensorFlow,Python
+Worked on deep learning project,Deep Learning,Torch,
+Built web application,Web Development,React,JavaScript
+I built backend API,Backend,Django,Python
+With cloud computing deployed on AWS,Cloud Computing,AWS,
+Data analysis,Data Analysis,Pandas,Python
+I created visualizations dashboard,Visualizations,Power BI,SQL
+On natural language processing,NLP,BERT,
+Image processing,Computer Vision,OpenCV,
+Cybersecurity,Cybersecurity,Kali Linux,
+Mobile application,Mobile Development,Flutter,Dart
+Android app development,Mobile Development,Android Studio,Kotlin
+Developed REST API,API Development,Flask,Python
+Database management,Database,MySQL,SQL
+Manage infrastructure,Infrastructure,Microsoft Azure,
+Machine learning pipeline,Machine Learning,Scikit-learn,Python
+Deep learning networks,Deep Learning,Keras,Python
+Object detection,Computer Vision,YOLO,
+Frontend development,Frontend,Angular,TypeScript
+Backend development,Backend,Node.js,JavaScript
+Used Docker for containerization,DevOps,Docker,
+Orchestration,DevOps,Kubernetes,
+Data engineering,ETL,Apache Spark,
+Workflow management,Data Engineering,Airflow,
+Recommendation system,Machine Learning,,
+Data analytics,Analytics,Tableau,
+Statistical programming,Statistics,,R
+Enterprise applications,Backend,Spring Boot,Java
+Embedded systems,Embedded,Arduino,C++
+Internet of Things,IoT,Raspberry Pi,Python
+Collaborate software development,Version Control,GitHub,
+Automation testing,Automation,Selenium,
+Blockchain smart contracts,Blockchain,Ethereum,Solidity
+Large datasets Big Data,Big Data,Hadoop,Java
+Chatbot,AI,Hugging Face Transformers,Python
+Scalable services,Database,PostgreSQL,SQL
+Responsive user UI,Frontend,,"HTML, CSS"
+Scientific computing,Data Science,NumPy,Python
+Cloud Serverless,Cloud Computing,Lambda,
+CI/CD pipeline,DevOps,Jenkins,
+
