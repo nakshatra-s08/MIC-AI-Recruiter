@@ -6,6 +6,7 @@ import pandas as pd
 df=pd.read_csv("extracted_data.csv")
 embeddings = OllamaEmbeddings(model="nomic-embed-text")
 db_location="./chroma_langchain_db"
+
 add_documents=not os.path.exists(db_location)
 
 if add_documents:
@@ -29,6 +30,5 @@ vector_store= Chroma(
 if add_documents:
     vector_store.add_documents(documents=docs, ids=ids)
     print(f"Added {len(docs)} documents to Chroma.")
-print("Vector database is ready!")
 
 retriever = vector_store.as_retriever(search_kwargs={"k": 10})
