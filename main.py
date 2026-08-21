@@ -41,4 +41,5 @@ while True:
     })
 
     docs=retriever.invoke(resume)
+    result = result.replace("**", "")
     print(result)
